@@ -16,7 +16,7 @@ Organizations:
         ID: org0MSP
 
         # MSPDir is the filesystem path which contains the MSP configuration
-        MSPDir: /home/wafa/production-network/org0/ca/admin/msp
+        MSPDir: /home/wafa/production-network/org0/msp
 
     - &org1
     
@@ -26,7 +26,7 @@ Organizations:
         ID: org1MSP
     
         # MSPDir is the filesystem path which contains the MSP configuration
-        MSPDir: /home/wafa/production-network/org1/ca/admin/msp
+        MSPDir: /home/wafa/production-network/org1/msp
     
         AnchorPeers:
         # AnchorPeers defines the location of peers which can be used
@@ -43,7 +43,7 @@ Organizations:
         ID: org2MSP
 
         # MSPDir is the filesystem path which contains the MSP configuration
-        MSPDir: /home/wafa/production-network/org2/ca/admin/msp
+        MSPDir: /home/wafa/production-network/org2/msp
 
         AnchorPeers:
         # AnchorPeers defines the location of peers which can be used
@@ -60,7 +60,7 @@ Organizations:
         ID: org3MSP
 
         # MSPDir is the filesystem path which contains the MSP configuration
-        MSPDir: /home/wafa/production-network/org3/ca/admin/msp
+        MSPDir: /home/wafa/production-network/org3/msp
 
         AnchorPeers:
         # AnchorPeers defines the location of peers which can be used
@@ -77,7 +77,7 @@ Organizations:
         ID: org4MSP
 
         # MSPDir is the filesystem path which contains the MSP configuration
-        MSPDir: /home/wafa/production-network/org4/ca/admin/msp
+        MSPDir: /home/wafa/production-network/org4/msp
 
         AnchorPeers:
         # AnchorPeers defines the location of peers which can be used
@@ -94,7 +94,7 @@ Organizations:
         ID: org5MSP
 
         # MSPDir is the filesystem path which contains the MSP configuration
-        MSPDir: /home/wafa/production-network/org5/ca/admin/msp
+        MSPDir: /home/wafa/production-network/org5/msp
 
         AnchorPeers:
         # AnchorPeers defines the location of peers which can be used
